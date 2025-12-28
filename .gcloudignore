@@ -1,0 +1,8 @@
+.git
+.venv
+__pycache__/
+*.pyc
+.DS_Store
+
+terraform/
+api_key.txt
